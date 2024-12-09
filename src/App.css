@@ -92,5 +92,5 @@
 }
 
 .animate-popIn {
-  animation: popIn 1s ease-out forwards;
+  animation: popIn 0.4s ease-out forwards;
 }
