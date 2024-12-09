@@ -165,7 +165,8 @@ const Home = () => {
           />
         </h1>
         <p className={`text-base md:text-xs mb-4 ${textColor}`}>
-          I’m pursuing a B.Tech in Computer Science and Engineering. With a strong foundation in algorithms, problem-solving, and web development, I am eager to contribute to AI and ML innovations.
+          I am a Computer Science and Engineering student with a strong foundation in algorithms, problem-solving, and full-stack web development.
+          Driven by a passion for technology, I am committed to continuously expanding my skills and contributing to innovative, impactful projects.
         </p>
         <div className="mt-6 flex gap-6 flex-wrap justify-center md:justify-start">
           <a
