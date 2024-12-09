@@ -57,7 +57,7 @@ const Skills = () => {
           {[
             "HTML.png",
             "c++.svg",
-            "C.svg",
+            "c.svg",
             "CSS.png",
             "Javascript.svg",
             "React.svg",
