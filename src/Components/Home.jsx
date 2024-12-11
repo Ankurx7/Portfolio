@@ -170,7 +170,7 @@ const Home = () => {
         </p>
         <div className="mt-6 flex gap-6 flex-wrap justify-center md:justify-start">
           <a
-            href="https://drive.google.com/file/d/1M58ljnlJcH9sH5LvxYDIxhV--KXD1aml/view?usp=drive_link"
+            href="https://drive.google.com/file/"
             className="bg-indigo-600 text-white px-6 py-3 rounded-full text-lg font-semibold shadow-lg transform transition-all duration-300 hover:scale-105 hover:bg-indigo-500 hover:shadow-xl hover:rotate-1 flex items-center gap-2"
           >
             Resume
