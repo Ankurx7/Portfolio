@@ -76,7 +76,7 @@ const Education = () => {
             <p className="text-sm sm:text-sm font-medium ">
               Computer Science and Engineering
             </p>
-            <p className="text-xs font-bold sm:text-sm italic ">CGPA: 8.24</p>
+            <p className="text-xs font-bold sm:text-sm italic ">CGPA: 8.30</p>
             <p className="text-xs sm:text-sm italic text-red-600">
               Birla Institute of Technology, Mesra Ranchi
             </p>
